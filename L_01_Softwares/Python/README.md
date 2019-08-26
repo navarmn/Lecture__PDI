@@ -102,3 +102,27 @@ Para essa parte, use o [notebook 02](notebook_02__histogram.ipynb), pois conter√
 
 * https://docs.opencv.org/3.4/
 * https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
+
+
+# Docker
+
+O que √© Docker?
+
+![Diagram](figs/01.png)
+![Diagram](figs/02.png)
+![Diagram](figs/03.png)
+
+
+## Como instalar?
+
+- Docker engine: https://docs.docker.com/install/
+- Docker compose: https://docs.docker.com/compose/
+
+## Jupyter + Python + Data Science in a single shot:
+
+https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+
+
+```shell
+docker run jupyter/base-notebook 
+```
